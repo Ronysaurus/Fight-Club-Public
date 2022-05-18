@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+      "id" :  "000000000",
+      "user": "test",
+      "img": "https://i.ytimg.com/vi/X21R6tpeaJs/hqdefault.jpg",
+      "lvl": 1,
+      "hp": 100,
+      "atk": 10,
+      "def": 5,
+      "spd": 1,
+      "evd": 1
+    }
+  ]
+}
